@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    margin: 50px 100px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    margin-left:100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border: black 1px solid;
+    border-radius: 50%;
+}
+
+.left{
+    margin-right: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border: black 1px solid;
+    border-radius: 50%;
+}
+.right{
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border: black 1px solid;
+    border-radius: 50%;
+}
+
+
